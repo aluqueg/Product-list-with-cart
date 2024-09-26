@@ -1,0 +1,9 @@
+.colorbotonmodal{
+  background-color: #BA3B1A;
+  border: #BA3B1A;
+}
+
+.colorbotonmodal:hover {
+  background-color: #BA3B1A;
+  color: white;
+}
